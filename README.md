@@ -1,2 +1,14 @@
 # Project-Notepad
-Notepad Lite is a simple web-based note-taking application built using HTML, CSS, and JavaScript. It allows users to easily jot down and manage their notes in a clean and intuitive interface.
+# Day8 of 30 days 30 project challenge
+## Features
+- Search by keyword: Quickly find specific notes by searching for keywords.
+- Add and delete notes: Easily add new notes and delete existing ones.
+- Responsive design: Works seamlessly on various screen sizes.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Bootstrap 5
+
+Give Notepad Lite a try and stay organized with your notes!.
